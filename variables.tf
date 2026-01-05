@@ -80,5 +80,5 @@ variable "target_image_family" {
 variable "trigger_name" {
   description = "The name for the Cloud Build trigger. Must be unique."
   type        = string
-  default     = "gke-cos-customizer-trigger"
+  default     = "gke-cos-customizer-trigger-134"
 }

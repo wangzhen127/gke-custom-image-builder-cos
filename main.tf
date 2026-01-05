@@ -64,7 +64,8 @@ resource "google_cloudbuild_trigger" "cos_customizer_trigger" {
     owner = var.github_owner
     name  = var.github_repo_name
     push {
-      branch = "^main$"
+      # branch = "^main$"
+      branch = "^test-build-134$"
     }
   }
 
