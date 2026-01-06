@@ -7,8 +7,8 @@ project_id = "zhenw-gke-dev" # !!! REPLACE THIS VALUE !!!
 github_owner     = "wangzhen127"       # !!! REPLACE THIS VALUE !!!
 github_repo_name = "gke-custom-image-builder-cos" # !!! REPLACE THIS VALUE !!!
 
-# 1.34.1-gke3947000
-source_image = "gke-1341-gke3947000-cos-125-19216-104-45-c-pre" # !!! REPLACE THIS VALUE !!!
+# 1.34.1-gke3556000
+source_image = "gke-1341-gke3556000-cos-125-19216-104-39-c-pre" # !!! REPLACE THIS VALUE !!!
 
 # ------------------------------------------------------------------------------
 # OPTIONAL SETTINGS (Defaults are in variables.tf)
